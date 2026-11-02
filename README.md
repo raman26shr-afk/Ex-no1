@@ -62,11 +62,13 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+2+6=8
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="659" height="441" alt="Screenshot 2026-10-15 103322(1)" src="https://github.com/user-attachments/assets/ddeff981-bc0e-4ff8-b85d-2599a1423ebc" />
+
 
 ## 2. SUBTRACTION
 
@@ -113,12 +115,14 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+6-2=4
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="663" height="448" alt="Screenshot 2026-10-15 103953(1)" src="https://github.com/user-attachments/assets/86b1222d-7ce7-4aba-a283-8b15afe5cc8c" />
+
 
 ## 3. MULTIPLICATION
 
