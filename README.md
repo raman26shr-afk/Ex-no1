@@ -62,7 +62,7 @@ END
 
 #### Manual Calculations
 
-2+6=8
+## 2+6=8
 
 ---
 
@@ -115,7 +115,7 @@ END
 
 #### Manual Calculations
 
-6-2=4
+## 6-2=4
 
 ---
 
@@ -166,11 +166,12 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+## 2*6=12
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="651" height="433" alt="Screenshot 2026-10-15 104611(1)" src="https://github.com/user-attachments/assets/07d151c6-2705-46fe-bc1e-ec53849b7a77" />
 
 ## 4. DIVISION
 
@@ -211,10 +212,11 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+## 6/2=3
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="650" height="428" alt="Screenshot 2026-10-15 104900(1)" src="https://github.com/user-attachments/assets/93371193-b42c-4a19-a929-a817a4574dce" />
 
 
 
